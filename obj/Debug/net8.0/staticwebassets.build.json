@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2KvYSCSTPA7asbIBaQ1GJff5tdeJdgpOaYYj9FuGdL0=",
+  "Source": "ExamApi",
+  "BasePath": "_content/ExamApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
